@@ -10,6 +10,10 @@ The Blueprints are a collection of basic and minimal website concepts, component
 
 View the [Blueprints archive] (http://tympanus.net/codrops/category/blueprints/)
 
+## Changes by Abu Zayd
+Added on my-changes branch, main - section added.
+
+
 ## License
 
 Use it freely but do not distribute or sell "as-is". Read more here: [Codrops License](http://tympanus.net/codrops/licensing/)
@@ -20,7 +24,7 @@ Use it freely but do not distribute or sell "as-is". Read more here: [Codrops Li
 
 [Modernizr](http://modernizr.com/) by the Modernizr Team
 
-### Images 
+### Images
 
 [Flat Apple Devices](http://drbl.in/jsoj) by Peter Finlan
 
@@ -34,7 +38,7 @@ Use it freely but do not distribute or sell "as-is". Read more here: [Codrops Li
 
 [Perspective App Screen Mockup](http://graphicburger.com/perspective-app-screens-mock-up/) by GraphicBurger
 
-### Icons 
+### Icons
 
 [Feather Icons](https://gumroad.com/l/feather) by Cole Bemis
 
@@ -45,5 +49,3 @@ Icon font created with [IcoMoon](https://icomoon.io)
 Follow us: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/pages/Codrops/159107397912), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/)
 
 [© Codrops 2015](http://www.codrops.com)
-
-
